@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,700';
+
+
+.te{
+ 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+    position: absolute;
+}
